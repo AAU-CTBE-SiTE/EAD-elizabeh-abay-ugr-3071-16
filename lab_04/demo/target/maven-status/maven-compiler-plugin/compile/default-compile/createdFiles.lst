@@ -1,0 +1,5 @@
+com\annotation\AppConfig.class
+com\annotation\Address.class
+com\annotation\Student.class
+com\annotation\Subject.class
+com\annotation\App.class
