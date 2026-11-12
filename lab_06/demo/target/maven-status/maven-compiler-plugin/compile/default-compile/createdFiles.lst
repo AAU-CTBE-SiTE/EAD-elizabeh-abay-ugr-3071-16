@@ -1,0 +1,4 @@
+com\aspect\oriented\App.class
+com\aspect\oriented\Actor.class
+com\aspect\oriented\ActorController.class
+com\aspect\oriented\LoggingAspect.class
