@@ -1,0 +1,5 @@
+com\example\LoggingAspect.class
+com\example\ActorController.class
+com\example\Actor.class
+com\example\ActorRepository.class
+com\example\App.class
