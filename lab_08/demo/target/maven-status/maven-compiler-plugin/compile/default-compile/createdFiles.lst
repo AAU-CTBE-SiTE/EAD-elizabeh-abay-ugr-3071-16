@@ -1,0 +1,7 @@
+com\example\StudentController.class
+com\example\StudentDTO.class
+com\example\App.class
+com\example\DtoMapper.class
+com\example\LoggingAspect.class
+com\example\StudentRepostiory.class
+com\example\Student.class
