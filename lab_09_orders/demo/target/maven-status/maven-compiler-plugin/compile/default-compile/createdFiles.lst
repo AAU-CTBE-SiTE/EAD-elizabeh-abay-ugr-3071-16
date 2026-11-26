@@ -1,0 +1,6 @@
+Config\RestClientConfig.class
+Model\Customer.class
+Controller\CustomerController.class
+Repository\CustomerRepository.class
+com\example\App.class
+Service\CustomerService.class
